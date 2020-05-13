@@ -1,0 +1,24 @@
+{
+  "name": "vn-native-resource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveleetn91/vn-native-resource.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveleetn91/vn-native-resource/issues"
+  },
+  "homepage": "https://github.com/steveleetn91/vn-native-resource#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "resize-img": "^2.0.0"
+  },
+  "bin": "index.js"
+}
